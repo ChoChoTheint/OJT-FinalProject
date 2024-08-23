@@ -1,0 +1,147 @@
+2024-07-30 10:27:15 +06:30 [INF: Microsoft.Hosting.Lifetime] Now listening on: "http://localhost:5249"
+2024-07-30 10:27:15 +06:30 [INF: Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+2024-07-30 10:27:15 +06:30 [INF: Microsoft.Hosting.Lifetime] Hosting environment: "Development"
+2024-07-30 10:27:15 +06:30 [INF: Microsoft.Hosting.Lifetime] Content root path: "C:\Working\OJT\FinalProject"
+2024-07-30 10:27:18 +06:30 [WRN: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
+2024-07-30 10:27:20 +06:30 [INF: finalproject.Controllers.UserController] Login method called success
+2024-07-30 10:27:21 +06:30 [WRN: Microsoft.EntityFrameworkCore.Model.Validation] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-07-30 10:29:11 +06:30 [INF: Microsoft.Hosting.Lifetime] Application is shutting down...
+2024-07-30 10:29:19 +06:30 [INF: Microsoft.Hosting.Lifetime] Now listening on: "http://localhost:5249"
+2024-07-30 10:29:19 +06:30 [INF: Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+2024-07-30 10:29:19 +06:30 [INF: Microsoft.Hosting.Lifetime] Hosting environment: "Development"
+2024-07-30 10:29:19 +06:30 [INF: Microsoft.Hosting.Lifetime] Content root path: "C:\Working\OJT\FinalProject"
+2024-07-30 10:29:28 +06:30 [WRN: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
+2024-07-30 10:29:29 +06:30 [WRN: Microsoft.EntityFrameworkCore.Model.Validation] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-07-30 10:29:50 +06:30 [INF: finalproject.Controllers.UserController] Login method called success
+2024-07-30 10:30:19 +06:30 [INF: finalproject.Controllers.UserController] Login method called success
+2024-07-30 10:30:56 +06:30 [INF: finalproject.Controllers.UserController] Login method called success
+2024-07-30 10:32:17 +06:30 [INF: finalproject.Controllers.UserController] Login method called success
+2024-07-30 10:33:21 +06:30 [INF: Microsoft.Hosting.Lifetime] Application is shutting down...
+2024-07-30 10:33:29 +06:30 [INF: Microsoft.Hosting.Lifetime] Now listening on: "http://localhost:5249"
+2024-07-30 10:33:29 +06:30 [INF: Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+2024-07-30 10:33:29 +06:30 [INF: Microsoft.Hosting.Lifetime] Hosting environment: "Development"
+2024-07-30 10:33:29 +06:30 [INF: Microsoft.Hosting.Lifetime] Content root path: "C:\Working\OJT\FinalProject"
+2024-07-30 10:33:35 +06:30 [WRN: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
+2024-07-30 10:33:36 +06:30 [INF: finalproject.Controllers.UserController] Login method called success
+2024-07-30 10:33:37 +06:30 [WRN: Microsoft.EntityFrameworkCore.Model.Validation] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-07-30 10:37:20 +06:30 [INF: finalproject.Controllers.UserController] Login method called success
+2024-07-30 10:41:07 +06:30 [INF: Microsoft.Hosting.Lifetime] Application is shutting down...
+2024-07-30 10:42:04 +06:30 [INF: Microsoft.Hosting.Lifetime] Now listening on: "http://localhost:5249"
+2024-07-30 10:42:04 +06:30 [INF: Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+2024-07-30 10:42:04 +06:30 [INF: Microsoft.Hosting.Lifetime] Hosting environment: "Development"
+2024-07-30 10:42:04 +06:30 [INF: Microsoft.Hosting.Lifetime] Content root path: "C:\Working\OJT\FinalProject"
+2024-07-30 10:42:12 +06:30 [WRN: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
+2024-07-30 10:42:13 +06:30 [INF: finalproject.Controllers.UserController] Login method called success
+2024-07-30 10:42:14 +06:30 [WRN: Microsoft.EntityFrameworkCore.Model.Validation] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-07-30 10:45:08 +06:30 [INF: Microsoft.Hosting.Lifetime] Now listening on: "http://localhost:5249"
+2024-07-30 10:45:08 +06:30 [INF: Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+2024-07-30 10:45:08 +06:30 [INF: Microsoft.Hosting.Lifetime] Hosting environment: "Development"
+2024-07-30 10:45:08 +06:30 [INF: Microsoft.Hosting.Lifetime] Content root path: "C:\Working\OJT\FinalProject"
+2024-07-30 10:45:18 +06:30 [WRN: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
+2024-07-30 10:45:19 +06:30 [INF: finalproject.Controllers.UserController] Login method called success
+2024-07-30 10:45:20 +06:30 [WRN: Microsoft.EntityFrameworkCore.Model.Validation] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-07-30 10:49:00 +06:30 [INF: Microsoft.Hosting.Lifetime] Now listening on: "http://localhost:5249"
+2024-07-30 10:49:00 +06:30 [INF: Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+2024-07-30 10:49:00 +06:30 [INF: Microsoft.Hosting.Lifetime] Hosting environment: "Development"
+2024-07-30 10:49:00 +06:30 [INF: Microsoft.Hosting.Lifetime] Content root path: "C:\Working\OJT\FinalProject"
+2024-07-30 10:49:05 +06:30 [WRN: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
+2024-07-30 10:49:06 +06:30 [INF: finalproject.Controllers.UserController] Login method called success
+2024-07-30 10:49:06 +06:30 [WRN: Microsoft.EntityFrameworkCore.Model.Validation] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-07-30 10:49:26 +06:30 [INF: finalproject.Controllers.UserController] Login method called success
+2024-07-30 10:49:45 +06:30 [INF: finalproject.Controllers.UserController] Login method called success
+2024-07-30 10:50:48 +06:30 [INF: finalproject.Controllers.UserController] Login method called success
+2024-07-30 10:50:55 +06:30 [INF: finalproject.Controllers.UserController] Login method called success
+2024-07-30 10:51:04 +06:30 [INF: finalproject.Controllers.UserController] Login method called success
+2024-07-30 10:51:52 +06:30 [INF: finalproject.Controllers.UserController] Login method called success
+2024-07-30 14:56:52 +06:30 [INF: Microsoft.Hosting.Lifetime] Now listening on: "http://localhost:5249"
+2024-07-30 14:56:52 +06:30 [INF: Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+2024-07-30 14:56:52 +06:30 [INF: Microsoft.Hosting.Lifetime] Hosting environment: "Development"
+2024-07-30 14:56:52 +06:30 [INF: Microsoft.Hosting.Lifetime] Content root path: "C:\Working\OJT\FinalProject"
+2024-07-30 14:57:22 +06:30 [WRN: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
+2024-07-30 14:57:23 +06:30 [INF: finalproject.Controllers.UserController] Login method called success
+2024-07-30 14:57:24 +06:30 [WRN: Microsoft.EntityFrameworkCore.Model.Validation] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-07-30 14:57:50 +06:30 [INF: Microsoft.Hosting.Lifetime] Application is shutting down...
+2024-07-30 14:58:02 +06:30 [INF: Microsoft.Hosting.Lifetime] Now listening on: "http://localhost:5249"
+2024-07-30 14:58:02 +06:30 [INF: Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+2024-07-30 14:58:02 +06:30 [INF: Microsoft.Hosting.Lifetime] Hosting environment: "Development"
+2024-07-30 14:58:02 +06:30 [INF: Microsoft.Hosting.Lifetime] Content root path: "C:\Working\OJT\FinalProject"
+2024-07-30 14:58:05 +06:30 [WRN: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
+2024-07-30 14:58:06 +06:30 [INF: finalproject.Controllers.UserController] Login method called success
+2024-07-30 14:58:06 +06:30 [WRN: Microsoft.EntityFrameworkCore.Model.Validation] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-07-30 14:59:11 +06:30 [INF: Microsoft.Hosting.Lifetime] Application is shutting down...
+2024-07-30 14:59:21 +06:30 [INF: Microsoft.Hosting.Lifetime] Now listening on: "http://localhost:5249"
+2024-07-30 14:59:21 +06:30 [INF: Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+2024-07-30 14:59:21 +06:30 [INF: Microsoft.Hosting.Lifetime] Hosting environment: "Development"
+2024-07-30 14:59:21 +06:30 [INF: Microsoft.Hosting.Lifetime] Content root path: "C:\Working\OJT\FinalProject"
+2024-07-30 14:59:25 +06:30 [WRN: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
+2024-07-30 14:59:25 +06:30 [INF: finalproject.Controllers.UserController] Login method called success
+2024-07-30 14:59:26 +06:30 [WRN: Microsoft.EntityFrameworkCore.Model.Validation] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-07-30 14:59:43 +06:30 [INF: finalproject.Controllers.UserController] GetUser method called success
+2024-07-30 15:02:14 +06:30 [INF: Microsoft.Hosting.Lifetime] Application is shutting down...
+2024-07-30 15:02:21 +06:30 [INF: Microsoft.Hosting.Lifetime] Now listening on: "http://localhost:5249"
+2024-07-30 15:02:21 +06:30 [INF: Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+2024-07-30 15:02:21 +06:30 [INF: Microsoft.Hosting.Lifetime] Hosting environment: "Development"
+2024-07-30 15:02:21 +06:30 [INF: Microsoft.Hosting.Lifetime] Content root path: "C:\Working\OJT\FinalProject"
+2024-07-30 15:02:41 +06:30 [WRN: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
+2024-07-30 15:02:41 +06:30 [INF: finalproject.Controllers.UserController] Login method called success
+2024-07-30 15:02:42 +06:30 [WRN: Microsoft.EntityFrameworkCore.Model.Validation] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-07-30 15:02:53 +06:30 [INF: finalproject.Controllers.UserController] GetUser method called success
+2024-07-30 15:07:05 +06:30 [INF: finalproject.Controllers.UserController] Login method called success
+2024-07-30 15:08:17 +06:30 [INF: finalproject.Controllers.UserController] Login method called success
+2024-07-30 15:08:28 +06:30 [INF: finalproject.Controllers.UserController] GetUser method called success
+2024-07-30 15:10:22 +06:30 [INF: Microsoft.Hosting.Lifetime] Application is shutting down...
+2024-07-30 15:10:32 +06:30 [INF: Microsoft.Hosting.Lifetime] Now listening on: "http://localhost:5249"
+2024-07-30 15:10:32 +06:30 [INF: Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+2024-07-30 15:10:34 +06:30 [INF: Microsoft.Hosting.Lifetime] Hosting environment: "Development"
+2024-07-30 15:10:36 +06:30 [INF: Microsoft.Hosting.Lifetime] Content root path: "C:\Working\OJT\FinalProject"
+2024-07-30 15:10:48 +06:30 [WRN: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
+2024-07-30 15:10:49 +06:30 [INF: finalproject.Controllers.UserController] Login method called success
+2024-07-30 15:10:50 +06:30 [WRN: Microsoft.EntityFrameworkCore.Model.Validation] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-07-30 15:11:05 +06:30 [INF: finalproject.Controllers.UserController] UpdateUser method called success
+2024-07-30 15:12:53 +06:30 [INF: finalproject.Controllers.UserController] Login method called success
+2024-07-30 15:14:37 +06:30 [INF: finalproject.Controllers.UserController] Login method called success
+2024-07-30 15:15:06 +06:30 [INF: finalproject.Controllers.UserController] CreateUser method called
+2024-07-30 15:15:25 +06:30 [INF: finalproject.Controllers.UserController] Login method called success
+2024-07-30 15:17:15 +06:30 [INF: finalproject.Controllers.UserController] Login method called success
+2024-07-30 15:17:27 +06:30 [INF: finalproject.Controllers.UserController] GetAllStudents method called success
+2024-07-30 15:18:02 +06:30 [INF: finalproject.Controllers.UserController] Login method called success
+2024-07-30 15:18:14 +06:30 [INF: finalproject.Controllers.UserController] GetAllStudents method called success
+2024-07-30 15:25:56 +06:30 [INF: Microsoft.Hosting.Lifetime] Application is shutting down...
+2024-07-30 15:26:10 +06:30 [INF: Microsoft.Hosting.Lifetime] Now listening on: "http://localhost:5249"
+2024-07-30 15:26:10 +06:30 [INF: Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+2024-07-30 15:26:10 +06:30 [INF: Microsoft.Hosting.Lifetime] Hosting environment: "Development"
+2024-07-30 15:26:10 +06:30 [INF: Microsoft.Hosting.Lifetime] Content root path: "C:\Working\OJT\FinalProject"
+2024-07-30 15:26:12 +06:30 [WRN: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
+2024-07-30 15:26:12 +06:30 [INF: finalproject.Controllers.UserController] Login method called success
+2024-07-30 15:26:13 +06:30 [WRN: Microsoft.EntityFrameworkCore.Model.Validation] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-07-30 15:26:26 +06:30 [INF: finalproject.Controllers.UserController] GetAllStudents method called success
+2024-07-30 15:26:51 +06:30 [INF: finalproject.Controllers.UserController] GetAllStudents method called success
+2024-07-30 15:26:54 +06:30 [INF: Microsoft.Hosting.Lifetime] Application is shutting down...
+2024-07-30 15:27:02 +06:30 [INF: Microsoft.Hosting.Lifetime] Now listening on: "http://localhost:5249"
+2024-07-30 15:27:02 +06:30 [INF: Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+2024-07-30 15:27:02 +06:30 [INF: Microsoft.Hosting.Lifetime] Hosting environment: "Development"
+2024-07-30 15:27:02 +06:30 [INF: Microsoft.Hosting.Lifetime] Content root path: "C:\Working\OJT\FinalProject"
+2024-07-30 15:27:17 +06:30 [WRN: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
+2024-07-30 15:27:18 +06:30 [WRN: Microsoft.EntityFrameworkCore.Model.Validation] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-07-30 15:27:19 +06:30 [INF: finalproject.Controllers.UserController] GetAllStudents method called success
+2024-07-30 15:33:23 +06:30 [INF: finalproject.Controllers.UserController] Login method called success
+2024-07-30 15:33:37 +06:30 [INF: finalproject.Controllers.UserController] GetUser method called success
+2024-07-30 15:39:15 +06:30 [INF: Microsoft.Hosting.Lifetime] Application is shutting down...
+2024-07-30 15:39:39 +06:30 [INF: Microsoft.Hosting.Lifetime] Now listening on: "http://localhost:5249"
+2024-07-30 15:39:39 +06:30 [INF: Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+2024-07-30 15:39:39 +06:30 [INF: Microsoft.Hosting.Lifetime] Hosting environment: "Development"
+2024-07-30 15:39:39 +06:30 [INF: Microsoft.Hosting.Lifetime] Content root path: "C:\Working\OJT\FinalProject"
+2024-07-30 15:40:19 +06:30 [WRN: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
+2024-07-30 15:40:19 +06:30 [INF: finalproject.Controllers.UserController] Login method called success
+2024-07-30 15:40:20 +06:30 [WRN: Microsoft.EntityFrameworkCore.Model.Validation] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-07-30 15:41:29 +06:30 [INF: finalproject.Controllers.UserController] Login method called success
+2024-07-30 15:42:24 +06:30 [INF: finalproject.Controllers.ExerciseController] GetStudentGrade method called success
+2024-07-30 16:58:34 +06:30 [INF: Microsoft.Hosting.Lifetime] Application is shutting down...
+2024-07-30 16:58:48 +06:30 [INF: Microsoft.Hosting.Lifetime] Now listening on: "http://localhost:5249"
+2024-07-30 16:58:48 +06:30 [INF: Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+2024-07-30 16:58:48 +06:30 [INF: Microsoft.Hosting.Lifetime] Hosting environment: "Development"
+2024-07-30 16:58:48 +06:30 [INF: Microsoft.Hosting.Lifetime] Content root path: "C:\Working\OJT\FinalProject"
+2024-07-30 16:58:52 +06:30 [WRN: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
+2024-07-30 16:58:52 +06:30 [INF: finalproject.Controllers.UserController] Login method called success
+2024-07-30 16:58:53 +06:30 [WRN: Microsoft.EntityFrameworkCore.Model.Validation] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-07-30 16:59:05 +06:30 [INF: finalproject.Controllers.ExerciseController] GetStudentGrade method called success
